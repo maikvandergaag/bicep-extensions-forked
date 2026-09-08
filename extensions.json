@@ -30,6 +30,33 @@
       ]
     },
     {
+      "id": "http",
+      "displayName": "HTTP",
+      "description": "HTTP extension to perform http calls from Bicep.",
+      "communityContributed": true,
+      "repository": "https://github.com/maikvandergaag/bicep-ext-http",
+      "artifact": "ghcr.io/maikvandergaag/bicep-ext-http",
+      "publisher": "maikvandergaag",
+      "category": "HTTP",
+      "tags": [
+        "HTTP",
+        "Web"
+      ],
+      "license": "MIT",
+      "samples": [
+        {
+          "title": "Get an Entra token",
+          "description": "Get Entra token via Bicep",
+          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/entra-token"
+        },
+        {
+          "title": "Simple HTTP calls",
+          "description": "Some simple HTTP calls (GET, PUT, POST and DELETE)",
+          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/simple-http-calls"
+        }
+      ]
+    },
+    {
       "id": "azure-devops",
       "displayName": "Azure DevOps",
       "description": "Manage Azure DevOps projects, repositories, feeds, service connections, permissions, extensions and work items.",
