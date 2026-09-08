@@ -47,12 +47,12 @@
         {
           "title": "Get an Entra token",
           "description": "Get Entra token via Bicep",
-          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/entra-token"
+          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/entra-token/main.bicep"
         },
         {
           "title": "Simple HTTP calls",
           "description": "Some simple HTTP calls (GET, PUT, POST and DELETE)",
-          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/simple-http-calls"
+          "url": "https://github.com/maikvandergaag/bicep-ext-http/tree/main/samples/simple-http-calls/main.bicep"
         }
       ]
     },
