@@ -1,10 +1,10 @@
 ## Authentication
 
-Depending on the setup the extension does not require any authentication.
+Depending on the setup, the extension does not require any authentication.
 
 ## Example
 
-Perform specific http calls:
+Perform specific HTTP calls:
 Actions:
 
 ```bicep

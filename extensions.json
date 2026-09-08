@@ -32,7 +32,7 @@
     {
       "id": "http",
       "displayName": "HTTP",
-      "description": "HTTP extension to perform http calls from Bicep.",
+      "description": "HTTP extension to perform HTTP calls from Bicep.",
       "communityContributed": true,
       "repository": "https://github.com/maikvandergaag/bicep-ext-http",
       "artifact": "ghcr.io/maikvandergaag/bicep-ext-http",
