@@ -23,7 +23,7 @@ resource postHttp 'httpcall' = {
   name: 'postcall'
   url: 'https://bicep-local.free.beeceptor.com'
   method: 'Post'
-  headers:[
+  headers: [
     {name: 'Content-Type', value: 'application/json' }
   ]
   body: callBody
